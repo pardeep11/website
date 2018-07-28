@@ -1,0 +1,2 @@
+# website
+django basic app
